@@ -14,13 +14,17 @@ A collection of my solutions to LeetCode problems, categorized by difficulty and
 
 ---
 
-## 🗂 Project Structure
+## 📂 Solutions by Language
 
-| Difficulty | Solutions Link | Complexity Focus |
+I have categorized my solutions based on the programming language used. Each folder contains the problem statement and the optimized solution.
+
+| Language | Folder Link |
 | :--- | :--- | :--- |
-| 🟢 **Easy** | [View Solutions](./Easy) | Logic Fundamentals |
-| 🟡 **Medium** | [View Solutions](./Medium) | Efficiency & Optimization |
-| 🔴 **Hard** | [View Solutions](./Hard) | Complex Algorithms |
+| **C++** | [View Solutions](./cpp) |
+| **C** | [View Solutions](./c) |
+| **JavaScript** | [View Solutions](./js) |
+| **Java** | [View Solutions](./java) |
+| **Python** | [View Solutions](./python) |
 
 ---
 
