@@ -18,14 +18,11 @@ A collection of my solutions to LeetCode problems, categorized by difficulty and
 
 I have categorized my solutions based on the programming language used. Each folder contains the problem statement and the optimized solution.
 
-| Language | Folder Link |
-| :--- | :--- | :--- |
-| **C++** | [View Solutions](./cpp) |
-| **C** | [View Solutions](./c) |
-| **JavaScript** | [View Solutions](./js) |
-| **Java** | [View Solutions](./java) |
-| **Python** | [View Solutions](./python) |
-
+[![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](./cpp)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python)
+[![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](./java)
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](./js)
+[![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](./c)
 ---
 
 ## 🛠 My Methodology
